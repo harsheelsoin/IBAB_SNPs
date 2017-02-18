@@ -1,0 +1,11 @@
+PASS	Basic Statistics	ERR361062_1.fastq
+PASS	Per base sequence quality	ERR361062_1.fastq
+PASS	Per sequence quality scores	ERR361062_1.fastq
+FAIL	Per base sequence content	ERR361062_1.fastq
+FAIL	Per base GC content	ERR361062_1.fastq
+PASS	Per sequence GC content	ERR361062_1.fastq
+PASS	Per base N content	ERR361062_1.fastq
+PASS	Sequence Length Distribution	ERR361062_1.fastq
+FAIL	Sequence Duplication Levels	ERR361062_1.fastq
+PASS	Overrepresented sequences	ERR361062_1.fastq
+WARN	Kmer Content	ERR361062_1.fastq
